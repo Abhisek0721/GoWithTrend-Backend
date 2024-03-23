@@ -1,0 +1,871 @@
+[
+    {
+        "symbol": "20MICRONS",
+        "nameOfCompany": "20 Microns Limited",
+        "series": "EQ",
+        "dateOfListing": "06-OCT-2008",
+        "faceValue": 5
+    },
+    {
+        "symbol": "21STCENMGM",
+        "nameOfCompany": "21st Century Management Services Limited",
+        "series": "BE",
+        "dateOfListing": "03-MAY-1995",
+        "faceValue": 10
+    },
+    {
+        "symbol": "360ONE",
+        "nameOfCompany": "360 ONE WAM LIMITED",
+        "series": "EQ",
+        "dateOfListing": "19-SEP-2019",
+        "faceValue": 1
+    },
+    {
+        "symbol": "3IINFOLTD",
+        "nameOfCompany": "3i Infotech Limited",
+        "series": "EQ",
+        "dateOfListing": "22-OCT-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "3MINDIA",
+        "nameOfCompany": "3M India Limited",
+        "series": "EQ",
+        "dateOfListing": "13-AUG-2004",
+        "faceValue": 10
+    },
+    {
+        "symbol": "3PLAND",
+        "nameOfCompany": "3P Land Holdings Limited",
+        "series": "BE",
+        "dateOfListing": "19-JUL-1995",
+        "faceValue": 2
+    },
+    {
+        "symbol": "5PAISA",
+        "nameOfCompany": "5Paisa Capital Limited",
+        "series": "EQ",
+        "dateOfListing": "16-NOV-2017",
+        "faceValue": 10
+    },
+    {
+        "symbol": "63MOONS",
+        "nameOfCompany": "63 moons technologies limited",
+        "series": "BE",
+        "dateOfListing": "20-JUN-2005",
+        "faceValue": 2
+    },
+    {
+        "symbol": "A2ZINFRA",
+        "nameOfCompany": "A2Z Infra Engineering Limited",
+        "series": "BE",
+        "dateOfListing": "23-DEC-2010",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AAATECH",
+        "nameOfCompany": "AAA Technologies Limited",
+        "series": "BE",
+        "dateOfListing": "28-NOV-2022",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AAKASH",
+        "nameOfCompany": "Aakash Exploration Services Limited",
+        "series": "BE",
+        "dateOfListing": "29-SEP-2020",
+        "faceValue": 1
+    },
+    {
+        "symbol": "AAREYDRUGS",
+        "nameOfCompany": "Aarey Drugs & Pharmaceuticals Limited",
+        "series": "BE",
+        "dateOfListing": "06-AUG-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AARON",
+        "nameOfCompany": "Aaron Industries Limited",
+        "series": "EQ",
+        "dateOfListing": "06-NOV-2020",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AARTECH",
+        "nameOfCompany": "Aartech Solonics Limited",
+        "series": "EQ",
+        "dateOfListing": "10-JUL-2023",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AARTIDRUGS",
+        "nameOfCompany": "Aarti Drugs Limited",
+        "series": "EQ",
+        "dateOfListing": "19-SEP-2003",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AARTIIND",
+        "nameOfCompany": "Aarti Industries Limited",
+        "series": "EQ",
+        "dateOfListing": "08-FEB-1995",
+        "faceValue": 5
+    },
+    {
+        "symbol": "AARTIPHARM",
+        "nameOfCompany": "Aarti Pharmalabs Limited",
+        "series": "EQ",
+        "dateOfListing": "30-JAN-2023",
+        "faceValue": 5
+    },
+    {
+        "symbol": "AARTISURF",
+        "nameOfCompany": "Aarti Surfactants Limited",
+        "series": "EQ",
+        "dateOfListing": "14-JUL-2020",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AARVEEDEN",
+        "nameOfCompany": "Aarvee Denims & Exports Limited",
+        "series": "EQ",
+        "dateOfListing": "21-NOV-2006",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AARVI",
+        "nameOfCompany": "Aarvi Encon Limited",
+        "series": "EQ",
+        "dateOfListing": "24-JUN-2020",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AAVAS",
+        "nameOfCompany": "Aavas Financiers Limited",
+        "series": "EQ",
+        "dateOfListing": "08-OCT-2018",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ABAN",
+        "nameOfCompany": "Aban Offshore Limited",
+        "series": "BE",
+        "dateOfListing": "29-MAR-1995",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ABB",
+        "nameOfCompany": "ABB India Limited",
+        "series": "EQ",
+        "dateOfListing": "08-FEB-1995",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ABBOTINDIA",
+        "nameOfCompany": "Abbott India Limited",
+        "series": "EQ",
+        "dateOfListing": "08-JAN-2010",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ABCAPITAL",
+        "nameOfCompany": "Aditya Birla Capital Limited",
+        "series": "EQ",
+        "dateOfListing": "01-SEP-2017",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ABFRL",
+        "nameOfCompany": "Aditya Birla Fashion and Retail Limited",
+        "series": "EQ",
+        "dateOfListing": "17-JUL-2013",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ABMINTLLTD",
+        "nameOfCompany": "ABM International Limited",
+        "series": "EQ",
+        "dateOfListing": "09-SEP-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ABSLAMC",
+        "nameOfCompany": "Aditya Birla Sun Life AMC Limited",
+        "series": "EQ",
+        "dateOfListing": "11-OCT-2021",
+        "faceValue": 5
+    },
+    {
+        "symbol": "ACC",
+        "nameOfCompany": "ACC Limited",
+        "series": "EQ",
+        "dateOfListing": "20-NOV-1996",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ACCELYA",
+        "nameOfCompany": "Accelya Solutions India Limited",
+        "series": "EQ",
+        "dateOfListing": "01-DEC-1999",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ACCURACY",
+        "nameOfCompany": "Accuracy Shipping Limited",
+        "series": "BE",
+        "dateOfListing": "11-DEC-2020",
+        "faceValue": 1
+    },
+    {
+        "symbol": "ACE",
+        "nameOfCompany": "Action Construction Equipment Limited",
+        "series": "EQ",
+        "dateOfListing": "26-SEP-2006",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ACEINTEG",
+        "nameOfCompany": "Ace Integrated Solutions Limited",
+        "series": "EQ",
+        "dateOfListing": "04-NOV-2022",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ACI",
+        "nameOfCompany": "Archean Chemical Industries Limited",
+        "series": "EQ",
+        "dateOfListing": "21-NOV-2022",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ACL",
+        "nameOfCompany": "Andhra Cements Limited",
+        "series": "EQ",
+        "dateOfListing": "10-MAY-2023",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ACLGATI",
+        "nameOfCompany": "Allcargo Gati Limited",
+        "series": "EQ",
+        "dateOfListing": "10-OCT-2006",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ADANIENSOL",
+        "nameOfCompany": "Adani Energy Solutions Limited",
+        "series": "EQ",
+        "dateOfListing": "31-JUL-2015",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ADANIENT",
+        "nameOfCompany": "Adani Enterprises Limited",
+        "series": "EQ",
+        "dateOfListing": "04-JUN-1997",
+        "faceValue": 1
+    },
+    {
+        "symbol": "ADANIGREEN",
+        "nameOfCompany": "Adani Green Energy Limited",
+        "series": "EQ",
+        "dateOfListing": "18-JUN-2018",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ADANIPORTS",
+        "nameOfCompany": "Adani Ports and Special Economic Zone Limited",
+        "series": "EQ",
+        "dateOfListing": "27-NOV-2007",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ADANIPOWER",
+        "nameOfCompany": "Adani Power Limited",
+        "series": "BE",
+        "dateOfListing": "20-AUG-2009",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ADFFOODS",
+        "nameOfCompany": "ADF Foods Limited",
+        "series": "EQ",
+        "dateOfListing": "15-SEP-2010",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ADL",
+        "nameOfCompany": "Archidply Decor Limited",
+        "series": "BE",
+        "dateOfListing": "01-OCT-2020",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ADORWELD",
+        "nameOfCompany": "Ador Welding Limited",
+        "series": "EQ",
+        "dateOfListing": "10-MAY-1995",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ADROITINFO",
+        "nameOfCompany": "Adroit Infotech Limited",
+        "series": "BE",
+        "dateOfListing": "13-AUG-1997",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ADSL",
+        "nameOfCompany": "Allied Digital Services Limited",
+        "series": "EQ",
+        "dateOfListing": "25-JUL-2007",
+        "faceValue": 5
+    },
+    {
+        "symbol": "ADVANIHOTR",
+        "nameOfCompany": "Advani Hotels & Resorts (India) Limited",
+        "series": "EQ",
+        "dateOfListing": "25-JUN-2007",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ADVENZYMES",
+        "nameOfCompany": "Advanced Enzyme Technologies Limited",
+        "series": "EQ",
+        "dateOfListing": "01-AUG-2016",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AEGISCHEM",
+        "nameOfCompany": "Aegis Logistics Limited",
+        "series": "EQ",
+        "dateOfListing": "03-APR-1996",
+        "faceValue": 1
+    },
+    {
+        "symbol": "AEROFLEX",
+        "nameOfCompany": "Aeroflex Industries Limited",
+        "series": "EQ",
+        "dateOfListing": "31-AUG-2023",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AETHER",
+        "nameOfCompany": "Aether Industries Limited",
+        "series": "EQ",
+        "dateOfListing": "03-JUN-2022",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AFFLE",
+        "nameOfCompany": "Affle (India) Limited",
+        "series": "EQ",
+        "dateOfListing": "08-AUG-2019",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AGARIND",
+        "nameOfCompany": "Agarwal Industrial Corporation Limited",
+        "series": "EQ",
+        "dateOfListing": "26-MAY-2014",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AGI",
+        "nameOfCompany": "AGI Greenpac Limited",
+        "series": "EQ",
+        "dateOfListing": "31-MAY-2000",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AGRITECH",
+        "nameOfCompany": "Agri-Tech (India) Limited",
+        "series": "EQ",
+        "dateOfListing": "28-JAN-2014",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AGROPHOS",
+        "nameOfCompany": "Agro Phos India Limited",
+        "series": "EQ",
+        "dateOfListing": "08-MAR-2019",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AGSTRA",
+        "nameOfCompany": "AGS Transact Technologies Limited",
+        "series": "BE",
+        "dateOfListing": "31-JAN-2022",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AHL",
+        "nameOfCompany": "Abans Holdings Limited",
+        "series": "EQ",
+        "dateOfListing": "23-DEC-2022",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AHLADA",
+        "nameOfCompany": "Ahlada Engineers Limited",
+        "series": "EQ",
+        "dateOfListing": "28-JAN-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AHLEAST",
+        "nameOfCompany": "Asian Hotels (East) Limited",
+        "series": "EQ",
+        "dateOfListing": "11-AUG-2010",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AHLUCONT",
+        "nameOfCompany": "Ahluwalia Contracts (India) Limited",
+        "series": "EQ",
+        "dateOfListing": "14-DEC-2009",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AIAENG",
+        "nameOfCompany": "AIA Engineering Limited",
+        "series": "EQ",
+        "dateOfListing": "14-DEC-2005",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AIRAN",
+        "nameOfCompany": "Airan Limited",
+        "series": "BE",
+        "dateOfListing": "03-MAY-2019",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AIROLAM",
+        "nameOfCompany": "Airo Lam limited",
+        "series": "EQ",
+        "dateOfListing": "13-OCT-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AJANTPHARM",
+        "nameOfCompany": "Ajanta Pharma Limited",
+        "series": "EQ",
+        "dateOfListing": "29-MAY-2000",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AJMERA",
+        "nameOfCompany": "Ajmera Realty & Infra India Limited",
+        "series": "EQ",
+        "dateOfListing": "16-JUN-2009",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AJOONI",
+        "nameOfCompany": "Ajooni Biotech Limited",
+        "series": "BE",
+        "dateOfListing": "07-MAY-2021",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AKASH",
+        "nameOfCompany": "Akash Infra-Projects Limited",
+        "series": "BE",
+        "dateOfListing": "11-OCT-2019",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AKG",
+        "nameOfCompany": "Akg Exim Limited",
+        "series": "EQ",
+        "dateOfListing": "16-FEB-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AKI",
+        "nameOfCompany": "AKI India Limited",
+        "series": "BE",
+        "dateOfListing": "06-APR-2023",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AKSHAR",
+        "nameOfCompany": "Akshar Spintex Limited",
+        "series": "BE",
+        "dateOfListing": "23-MAY-2022",
+        "faceValue": 1
+    },
+    {
+        "symbol": "AKSHARCHEM",
+        "nameOfCompany": "AksharChem India Limited",
+        "series": "EQ",
+        "dateOfListing": "28-MAR-2017",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AKSHOPTFBR",
+        "nameOfCompany": "Aksh Optifibre Limited",
+        "series": "BE",
+        "dateOfListing": "18-AUG-2000",
+        "faceValue": 5
+    },
+    {
+        "symbol": "AKZOINDIA",
+        "nameOfCompany": "Akzo Nobel India Limited",
+        "series": "EQ",
+        "dateOfListing": "28-JUN-2001",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ALANKIT",
+        "nameOfCompany": "Alankit Limited",
+        "series": "BE",
+        "dateOfListing": "30-JUN-2015",
+        "faceValue": 1
+    },
+    {
+        "symbol": "ALBERTDAVD",
+        "nameOfCompany": "Albert David Limited",
+        "series": "EQ",
+        "dateOfListing": "14-JUN-2016",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ALEMBICLTD",
+        "nameOfCompany": "Alembic Limited",
+        "series": "EQ",
+        "dateOfListing": "22-SEP-1999",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ALICON",
+        "nameOfCompany": "Alicon Castalloy Limited",
+        "series": "EQ",
+        "dateOfListing": "29-SEP-2006",
+        "faceValue": 5
+    },
+    {
+        "symbol": "ALKALI",
+        "nameOfCompany": "Alkali Metals Limited",
+        "series": "EQ",
+        "dateOfListing": "06-NOV-2008",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ALKEM",
+        "nameOfCompany": "Alkem Laboratories Limited",
+        "series": "EQ",
+        "dateOfListing": "23-DEC-2015",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ALKYLAMINE",
+        "nameOfCompany": "Alkyl Amines Chemicals Limited",
+        "series": "EQ",
+        "dateOfListing": "26-NOV-2007",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ALLCARGO",
+        "nameOfCompany": "Allcargo Logistics Limited",
+        "series": "EQ",
+        "dateOfListing": "23-JUN-2006",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ALLSEC",
+        "nameOfCompany": "Allsec Technologies Limited",
+        "series": "EQ",
+        "dateOfListing": "09-MAY-2005",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ALMONDZ",
+        "nameOfCompany": "Almondz Global Securities Limited",
+        "series": "BE",
+        "dateOfListing": "16-JUN-2008",
+        "faceValue": 6
+    },
+    {
+        "symbol": "ALOKINDS",
+        "nameOfCompany": "Alok Industries Limited",
+        "series": "BE",
+        "dateOfListing": "19-FEB-2020",
+        "faceValue": 1
+    },
+    {
+        "symbol": "ALPA",
+        "nameOfCompany": "Alpa Laboratories Limited",
+        "series": "EQ",
+        "dateOfListing": "06-AUG-2007",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ALPHAGEO",
+        "nameOfCompany": "Alphageo (India) Limited",
+        "series": "EQ",
+        "dateOfListing": "11-MAY-2007",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ALPSINDUS",
+        "nameOfCompany": "Alps Industries Limited",
+        "series": "BE",
+        "dateOfListing": "24-APR-1996",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AMBER",
+        "nameOfCompany": "Amber Enterprises India Limited",
+        "series": "EQ",
+        "dateOfListing": "30-JAN-2018",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AMBICAAGAR",
+        "nameOfCompany": "Ambica Agarbathies & Aroma industries Limited",
+        "series": "EQ",
+        "dateOfListing": "29-JUN-2004",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AMBIKCO",
+        "nameOfCompany": "Ambika Cotton Mills Limited",
+        "series": "EQ",
+        "dateOfListing": "29-JAN-2008",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AMBUJACEM",
+        "nameOfCompany": "Ambuja Cements Limited",
+        "series": "EQ",
+        "dateOfListing": "18-FEB-1998",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AMDIND",
+        "nameOfCompany": "AMD Industries Limited",
+        "series": "BE",
+        "dateOfListing": "19-MAR-2007",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AMIORG",
+        "nameOfCompany": "Ami Organics Limited",
+        "series": "EQ",
+        "dateOfListing": "14-SEP-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "AMJLAND",
+        "nameOfCompany": "Amj Land Holdings Limited",
+        "series": "EQ",
+        "dateOfListing": "08-FEB-1995",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AMNPLST",
+        "nameOfCompany": "Amines & Plasticizers Limited",
+        "series": "EQ",
+        "dateOfListing": "10-NOV-2023",
+        "faceValue": 2
+    },
+    {
+        "symbol": "AMRUTANJAN",
+        "nameOfCompany": "Amrutanjan Health Care Limited",
+        "series": "EQ",
+        "dateOfListing": "02-JAN-2015",
+        "faceValue": 1
+    },
+    {
+        "symbol": "ANANDRATHI",
+        "nameOfCompany": "Anand Rathi Wealth Limited",
+        "series": "EQ",
+        "dateOfListing": "14-DEC-2021",
+        "faceValue": 5
+    },
+    {
+        "symbol": "ANANTRAJ",
+        "nameOfCompany": "Anant Raj Limited",
+        "series": "EQ",
+        "dateOfListing": "27-SEP-2006",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ANDHRAPAP",
+        "nameOfCompany": "ANDHRA PAPER LIMITED",
+        "series": "EQ",
+        "dateOfListing": "13-MAY-2004",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ANDHRSUGAR",
+        "nameOfCompany": "The Andhra Sugars Limited",
+        "series": "EQ",
+        "dateOfListing": "01-NOV-1995",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ANGELONE",
+        "nameOfCompany": "Angel One Limited",
+        "series": "EQ",
+        "dateOfListing": "05-OCT-2020",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ANIKINDS",
+        "nameOfCompany": "Anik Industries Limited",
+        "series": "BE",
+        "dateOfListing": "21-MAY-2008",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ANKITMETAL",
+        "nameOfCompany": "Ankit Metal & Power Limited",
+        "series": "BE",
+        "dateOfListing": "14-MAR-2013",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ANMOL",
+        "nameOfCompany": "Anmol India Limited",
+        "series": "EQ",
+        "dateOfListing": "04-JUN-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ANSALAPI",
+        "nameOfCompany": "Ansal Properties & Infrastructure Limited",
+        "series": "BZ",
+        "dateOfListing": "27-JAN-2006",
+        "faceValue": 5
+    },
+    {
+        "symbol": "ANTGRAPHIC",
+        "nameOfCompany": "Antarctica Limited",
+        "series": "BE",
+        "dateOfListing": "31-DEC-1997",
+        "faceValue": 1
+    },
+    {
+        "symbol": "ANUP",
+        "nameOfCompany": "The Anup Engineering Limited",
+        "series": "EQ",
+        "dateOfListing": "01-MAR-2019",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ANURAS",
+        "nameOfCompany": "Anupam Rasayan India Limited",
+        "series": "EQ",
+        "dateOfListing": "24-MAR-2021",
+        "faceValue": 10
+    },
+    {
+        "symbol": "APARINDS",
+        "nameOfCompany": "Apar Industries Limited",
+        "series": "EQ",
+        "dateOfListing": "12-JUL-2004",
+        "faceValue": 10
+    },
+    {
+        "symbol": "APCL",
+        "nameOfCompany": "Anjani Portland Cement Limited",
+        "series": "EQ",
+        "dateOfListing": "10-APR-2017",
+        "faceValue": 10
+    },
+    {
+        "symbol": "APCOTEXIND",
+        "nameOfCompany": "Apcotex Industries Limited",
+        "series": "EQ",
+        "dateOfListing": "06-SEP-1995",
+        "faceValue": 2
+    },
+    {
+        "symbol": "APEX",
+        "nameOfCompany": "Apex Frozen Foods Limited",
+        "series": "EQ",
+        "dateOfListing": "04-SEP-2017",
+        "faceValue": 10
+    },
+    {
+        "symbol": "APLAPOLLO",
+        "nameOfCompany": "APL Apollo Tubes Limited",
+        "series": "EQ",
+        "dateOfListing": "14-DEC-2011",
+        "faceValue": 2
+    },
+    {
+        "symbol": "APLLTD",
+        "nameOfCompany": "Alembic Pharmaceuticals Limited",
+        "series": "EQ",
+        "dateOfListing": "20-SEP-2011",
+        "faceValue": 2
+    },
+    {
+        "symbol": "APOLLO",
+        "nameOfCompany": "Apollo Micro Systems Limited",
+        "series": "BE",
+        "dateOfListing": "22-JAN-2018",
+        "faceValue": 1
+    },
+    {
+        "symbol": "APOLLOHOSP",
+        "nameOfCompany": "Apollo Hospitals Enterprise Limited",
+        "series": "EQ",
+        "dateOfListing": "10-JAN-1996",
+        "faceValue": 5
+    },
+    {
+        "symbol": "APOLLOPIPE",
+        "nameOfCompany": "Apollo Pipes Limited",
+        "series": "EQ",
+        "dateOfListing": "11-NOV-2019",
+        "faceValue": 10
+    },
+    {
+        "symbol": "APOLLOTYRE",
+        "nameOfCompany": "Apollo Tyres Limited",
+        "series": "EQ",
+        "dateOfListing": "31-MAY-1995",
+        "faceValue": 1
+    },
+    {
+        "symbol": "APOLSINHOT",
+        "nameOfCompany": "Apollo Sindoori Hotels Limited",
+        "series": "EQ",
+        "dateOfListing": "28-JAN-2015",
+        "faceValue": 5
+    },
+    {
+        "symbol": "APTECHT",
+        "nameOfCompany": "Aptech Limited",
+        "series": "EQ",
+        "dateOfListing": "27-SEP-2002",
+        "faceValue": 10
+    },
+    {
+        "symbol": "APTUS",
+        "nameOfCompany": "Aptus Value Housing Finance India Limited",
+        "series": "EQ",
+        "dateOfListing": "24-AUG-2021",
+        "faceValue": 2
+    },
+    {
+        "symbol": "ARCHIDPLY",
+        "nameOfCompany": "Archidply Industries Limited",
+        "series": "EQ",
+        "dateOfListing": "04-JUL-2008",
+        "faceValue": 10
+    },
+    {
+        "symbol": "ARCHIES",
+        "nameOfCompany": "Archies Limited",
+        "series": "EQ",
+        "dateOfListing": "02-SEP-1998",
+        "faceValue": 2
+    }
+]
+

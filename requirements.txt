@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+alembic
+sqlalchemy
+requests
+apscheduler
+python-dotenv
+nselib
+mysql-connector-python
+bcrypt
