@@ -2,6 +2,9 @@ from sqlalchemy import Column, Integer, String, Boolean, CheckConstraint
 from app.db.base import Base
 from app.db.session import engine
 import bcrypt
+import jwt
+from datetime import datetime, timedelta, timezone
+from app.constants import constants
 
 class User(Base):
     __tablename__ = 'users'
@@ -25,10 +28,28 @@ class User(Base):
 
     def set_password(self, password):
         hashed_password = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt())
-        self.password = hashed_password
+        self.password = hashed_password.decode('utf-8')
     
     def verify_password(self, password):
         return bcrypt.checkpw(password.encode('utf-8'), self.password.encode('utf-8'))
+    
+    def generateAccessToken(self):
+        payload = {
+            "userId": self.id,
+            "email": self.email,
+            "exp": datetime.now(timezone.utc) + timedelta(seconds=constants.TOKEN_EXPIRATION)
+        }
+        # generating access_token
+        access_token = jwt.encode(payload, constants.JWT_SECRET_KEY, algorithm="HS256")
+        # generating refresh_token
+        payload.pop("exp")
+        refresh_token = jwt.encode(payload, constants.JWT_SECRET_KEY, algorithm="HS256")
+        response_data = {
+            "access_token": access_token,
+            "refresh_token": refresh_token,
+            "token_type": "bearer"
+        }
+        return response_data
 
 # Create the tables
 Base.metadata.create_all(bind=engine)

@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from app.api import api_router
 from app.middlewares.error_handler import http_error_handler, unhandled_exception_handler
-from app.middlewares import rate_limiter, auth
+from app.middlewares import rate_limiter, verify_token
 import threading
 from app.jobs import startJobs
 from app.constants import constants
