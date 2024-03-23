@@ -4,7 +4,7 @@
 
 ## How to Run ?
 
-To run this api in development environment:
+### To run this api in development environment:
 Step-1
 ```
 pip install -r requirements.txt
@@ -14,7 +14,7 @@ Step-2
 uvicorn main:app --reload
 ```
 
-To insert initial data to database:
+### To insert initial data to database:
 Step-1
 ```
 chmod +x insertDataToDB.sh
@@ -39,20 +39,10 @@ project_root/
 │   │   ├── contacts.py            # Item related routes
 │   │   └── users.py            # User related routes
 │   │
-│   ├── core/                   # Core functionality
-│   │   ├── __init__.py
-│   │   ├── config.py           # Configuration settings
-│   │   ├── security.py         # Security utilities
-│   │   └── ...
-│   │
 │   ├── db/                     # Database related code
 │   │   ├── __init__.py
 │   │   ├── base.py             # Base DB model
 │   │   └── session.py          # Database session initialization
-│   │
-│   ├── dependencies/           # Dependency definitions
-│   │   ├── __init__.py
-│   │   └── auth.py             # Authentication dependency
 │   │
 │   ├── models/                 # Pydantic models
 │   │   ├── __init__.py
