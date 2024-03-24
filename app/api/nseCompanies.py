@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, Query
+from fastapi import APIRouter, Depends, Query, params
 from app.utils.apiResponse import apiResponse
 from fastapi.responses import JSONResponse
 from sqlalchemy.orm import Session
@@ -29,3 +29,26 @@ async def get_nse_companies(
     )
 
 
+@router.get("/{companyId}", tags=["nse-companies"])
+async def get_company_by_id(companyId:int = params.Path(), db: Session = Depends(get_db)) -> JSONResponse:
+    responseData = db.query(NSEcompany).filter(NSEcompany.id == companyId).first()
+    if not responseData:
+        return apiResponse(
+            statusCode=404,
+            message=f'Company with ID {companyId} not found!'
+        )
+    return apiResponse(
+        responseData.to_json()
+    )
+
+@router.get("/symbol/{symbol}", tags=["nse-companies"])
+async def get_company_by_symbol(symbol:str = params.Path(), db: Session = Depends(get_db)) -> JSONResponse:
+    responseData = db.query(NSEcompany).filter(NSEcompany.symbol == symbol).first()
+    if not responseData:
+        return apiResponse(
+            statusCode=404,
+            message=f'Company with symbol {symbol} not found!'
+        )
+    return apiResponse(
+        responseData.to_json()
+    )
