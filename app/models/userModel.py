@@ -50,6 +50,19 @@ class User(Base):
             "token_type": "bearer"
         }
         return response_data
+    
+    def to_json(self):
+        return {
+            "id": self.id,
+            "firstName": self.firstName,
+            "lastName": self.lastName,
+            "email": self.email,
+            "verified": self.verified,
+        }
+    
+    @classmethod
+    def list_to_json(cls, data):
+        return [each.to_json() for each in data]
 
 # Create the tables
 Base.metadata.create_all(bind=engine)
