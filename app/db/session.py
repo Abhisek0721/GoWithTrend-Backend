@@ -7,7 +7,6 @@ from .base import Base
 # Database URL
 # DATABASE_URL = f"mysql+mysqlconnector://{constants.DB_USERNAME}:{constants.DB_PASSWORD}@localhost:3306/{constants.DATABASE_NAME}"
 DATABASE_URL = constants.DB_DOMAIN
-print(f"DATABASE_URL: {DATABASE_URL}")
 
 # Create a database engine
 engine = create_engine(

@@ -2,15 +2,17 @@ import sys
 from pathlib import Path
 # Add the project root directory to the Python path
 sys.path.append(str(Path(__file__).resolve().parents[2]))
-from app.models import nseCompanyModel, marketPriceHistoryModel, base
+from app.models import nseCompanyModel, marketPriceHistoryModel
+from app.db import base
 from nselib import capital_market
 import pandas as pd
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import time
+from app.constants import constants
 
 engine = create_engine(
-    'mysql+mysqlconnector://root:root@localhost:3306/gowithtrend')
+    constants.DB_DOMAIN)
 Session = sessionmaker(bind=engine)
 session = Session()
 
