@@ -20,7 +20,7 @@ async def get_user(current_user: dict = Depends(verify_token), db: Session = Dep
     responseData = db.query(User).filter(
         User.id == userId).options(defer(User.password)).first()
     return apiResponse(
-        responseData.__dict__
+        responseData.to_json()
     )
 
 
@@ -30,12 +30,7 @@ async def update_user(userPayload: UpdateUserSchema, current_user: dict = Depend
     user = db.query(User).filter(User.id == userId).first()
     user.firstName = userPayload.firstName
     user.lastName = userPayload.lastName
-    responseData = {
-        "userId": user.id,
-        "firstName": user.firstName,
-        "lastName": user.lastName,
-        "email": user.email
-    }
+    responseData = user.to_json()
     db.commit()
     return apiResponse(
         data=responseData,
